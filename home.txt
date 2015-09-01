@@ -1,6 +1,6 @@
 ====== باب43 (عر) ======
 
-Welcome to Door43! Please feel free to [[?do=edit|edit]] this page in your own language. More information about how to get started can be found [[en:get-started|here]].
+أهلا وسهلا باب 43! Please feel free to [[?do=edit|edit]] this page in your own language. More information about how to get started can be found [[en:get-started|here]].
 
 ===== Resources =====
 
