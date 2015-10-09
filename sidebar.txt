@@ -17,10 +17,6 @@ All content for this namespace is available in the [[https://github.com/Door43/d
 **Recent Changes**
 {{changes>ns = arz}}
 
-**Latest Status**
-{{page>en:uwadmin:arz:obs:status}}
-
-
 **Language Information**
 
 [[http://www.ethnologue.com/language/arz|Ethnologue data]]
